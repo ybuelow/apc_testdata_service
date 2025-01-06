@@ -1,0 +1,46 @@
+{
+"Timestamp": "2024-12-02T15:06:41.0550897Z",
+        "Gps": {
+        "Latitude": 47.70198933333333,
+        "Longitude": 8.646025,
+        "Angle": 0,
+        "DeviceId": "gps-001",
+        "Timestamp": "2024-12-02T15:06:40.6591776Z"
+    },
+    "VehicleNr": "Fz01",
+    "StopId": null,
+    "TripId": null,
+    "BasisVersion": null,
+    "Sensors": [
+        {
+            "SensorId": "APSA6E91F",
+            "Counts": [
+                {
+                    "ObjectClass": "Person",
+                    "In": 0,
+                    "Out": 0
+                }
+	        ]
+        },
+        {
+            "SensorId": "APSA6E91E",
+            "Counts": [
+                {
+                    "ObjectClass": "Person",
+                    "In": 0,
+                    "Out": 0
+                }
+            ]
+        },
+        {
+        "SensorId": "APSA6E8AC",
+        "Counts": [
+                {
+                    "ObjectClass": "Adult",
+                    "In": 0,
+                    "Out": 0
+                }
+        	]
+    	}
+    ]
+}

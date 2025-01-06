@@ -1,0 +1,53 @@
+{
+    "Haltepunkte": [
+        {
+            "Name": "Zermatt, Bahnhof",
+            "Latitude": 7.748475,
+            "Longitude":46.0241667
+        },{
+            "Name": "Zermatt, Brücke zum Steg",
+            "Latitude": 7.7492694,
+            "Longitude": 46.0206556
+        },{
+            "Name": "Zermatt, Getwingbrücke",
+            "Latitude": 7.7509028,
+            "Longitude": 46.021675
+        },{
+            "Name": "Zermatt, Kirchbrücke",
+            "Latitude": 7.7481,
+            "Longitude": 46.01915
+        },{
+            "Name": "Zermatt, Kapelle Winkelmatten",
+            "Latitude": 7.745125,
+            "Longitude":46.013125
+        },{
+            "Name": "Zermatt, Luchre",
+            "Latitude": 7.747475,
+            "Longitude": 46.0158528
+        },{
+            "Name": "Zermatt, Matterhorn Talstation",
+            "Latitude": 7.7424,
+            "Longitude":46.0145611
+        },{
+            "Name": "Zermatt, Schlüematta ",
+            "Latitude": 7.7423139,
+            "Longitude": 46.01295
+        },{
+            "Name": "Zermatt, Spiss",
+            "Latitude": 7.7528111,
+            "Longitude":46.0273222
+        },{
+            "Name": "Zermatt, Untere Matten",
+            "Latitude": 7.7500194,
+            "Longitude":46.0256833
+        },{
+            "Name": "Zermatt, Vispa",
+            "Latitude": 7.7498667,
+            "Longitude":46.021275
+        },{
+            "Name": "Zermatt, Wichje",
+            "Latitude": 7.7459722,
+            "Longitude":46.0122167
+        }
+    ]
+}
